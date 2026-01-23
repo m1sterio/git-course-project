@@ -78,4 +78,5 @@ public class Journal {
         // Для нашего задания достаточно симулировать действие.
         System.out.println("[INFO] Log rotation check complete.");
     }
+    
 }
